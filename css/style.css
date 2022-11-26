@@ -190,6 +190,7 @@
 .card:hover {
     transform: scale(1.1);
     transition: 0.5s;
+    box-shadow: 10px 10px 10px gray;
 }
 
 .card h3 {
@@ -245,3 +246,4 @@
 #card_six {
     background: linear-gradient(#FF8088, #984141);
 }
+
