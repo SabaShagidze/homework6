@@ -106,12 +106,16 @@
     color: white;
     font-size: 15px;
     font-weight: 500;
+    cursor: pointer;
 }
 
 .top_text button:hover {
     transform: scale(1.1);
     transition: .5s;
     box-shadow: 4px 4px 4px gray;
+    border: 1px solid var(--main-color);
+    background-color: white;
+    color: black;
 }
 
 .wave {
